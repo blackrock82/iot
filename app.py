@@ -8,10 +8,6 @@ application = app
 # Database Configuration
 #idezignmedia.co.zw
 DB_CONFIG = {
-    'host': 'localhost', 
-    'user': 'idezignmedia_iot',
-    'password': 'Sc)7_ic(N$K,',
-    'database': 'idezignmedia_iotdbx',
     'charset': 'utf8mb4',
     'cursorclass': pymysql.cursors.DictCursor
 }
